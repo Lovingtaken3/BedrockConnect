@@ -1,7 +1,7 @@
 {
   "serverInfo": {
     "motd": "Join To Open Server List",
-    "subMotd": "BedrockConnect Server List"
+    "subMotd": "MCrashCraft Server List"
   },
   "main": {
     "heading": "ServerList",
@@ -57,6 +57,6 @@
   "disconnect": {
     "inactivity": "Kicked for inactivity",
     "exit": "Exiting Server List",
-    "dataError": "We had some trouble receiving your player data. Please report this to the BedrockConnect GitHub if the issue continues."
+    "dataError": "We had some trouble receiving your player data. Please report this to the MCraqshCraft Discord if the issue continues. (mcrashcraft.com/discord)"
   }
 }
